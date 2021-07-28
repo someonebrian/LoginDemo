@@ -1,5 +1,3 @@
 <resources>
     <string name="app_name">LoginDemo</string>
-    <string name="account">test2@qq.com</string>
-    <string name="password">test1234qq</string>
 </resources>
